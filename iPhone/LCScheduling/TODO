@@ -1,0 +1,19 @@
+visual
+-make screen (entry fields) move up with the keyboard
+-home screen remote image
+-improve tutor search appearance
+-contact screen link color
+-tutor profile layout
+
+logical
+-get tutor schedule to display
+-book tutor
+-go around releasing objects (also check for memory leaks)
+
+testing
+-zucchini integration test
+
+
+UPDATE URLS FOR IAIT SERVER
+
+

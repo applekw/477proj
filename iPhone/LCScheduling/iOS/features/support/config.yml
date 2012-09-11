@@ -1,0 +1,6 @@
+app: MyApp.app
+
+devices:
+  ian:
+    UDID  : 2eb6b32a3fee9fd046e012626f2565ad2327b44b
+    screen: low_ios5
