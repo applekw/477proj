@@ -9,8 +9,13 @@
 		public $Room_Number;
 		public $about_tutor;
 		
-		public function __toString() {
-			return $this->TID;
-		}
+		public static $TIDQueryString = "TID";
+		public static $nameQueryString = "name";
+		public static $yearQueryString = "year";
+		public static $majorQueryString = "major";
+		public static $Room_NumberQueryString = "room";
+		public static $about_tutorQueryString = "about_tutor";
+		
+		
 	}
 ?>
